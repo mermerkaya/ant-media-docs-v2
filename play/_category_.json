@@ -1,0 +1,8 @@
+{
+  "label": "Playing Live Streams",
+  "position": 6,
+  "link": {
+    "type": "generated-index",
+    "description": "Play live streams with WebRTC, HLS, LL-HLS, DASH/CMAF, and embedded web player options."
+  }
+}

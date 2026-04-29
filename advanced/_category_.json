@@ -1,0 +1,8 @@
+{
+  "label": "Advanced Usage",
+  "position": 14,
+  "link": {
+    "type": "generated-index",
+    "description": "Advanced configuration topics including webhooks, TURN servers, NVIDIA GPU encoding, restricted network WebRTC, and geo-restricted license activation."
+  }
+}

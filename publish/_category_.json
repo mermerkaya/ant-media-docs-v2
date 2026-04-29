@@ -1,0 +1,8 @@
+{
+  "label": "Publish Live Streams",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Publish live streams to Ant Media Server using WebRTC, RTMP, SRT, WHIP, and more."
+  }
+}

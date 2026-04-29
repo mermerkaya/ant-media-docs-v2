@@ -1,0 +1,8 @@
+{
+  "label": "Docker",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "Deploy Ant Media Server with Docker Swarm or run it with NVIDIA hardware-accelerated encoding on Docker."
+  }
+}

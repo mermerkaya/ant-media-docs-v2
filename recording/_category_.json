@@ -1,0 +1,8 @@
+{
+  "label": "Recording Live Streams",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "Record live streams in MP4, WebM, HLS formats, store to S3 and cloud storage, and automate with scripts."
+  }
+}

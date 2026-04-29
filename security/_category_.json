@@ -1,0 +1,8 @@
+{
+  "label": "Stream Security",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Secure your streams with token controls, IP filtering, CORS, JWT, TOTP, webhook authorization, and Keycloak integration."
+  }
+}

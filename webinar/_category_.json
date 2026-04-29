@@ -1,0 +1,8 @@
+{
+  "label": "Webinar",
+  "position": 11,
+  "link": {
+    "type": "generated-index",
+    "description": "Deploy and run large-scale webinars with Ant Media Server's Circle Webinar Solution, supporting host, speaker, and listener roles with ultra-low WebRTC latency."
+  }
+}

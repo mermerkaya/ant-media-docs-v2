@@ -1,0 +1,8 @@
+{
+  "label": "AWS",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Deploy and scale Ant Media Server on Amazon Web Services using EC2 Auto Scaling Groups, Application Load Balancers, ECS, CloudFormation, and Wavelength."
+  }
+}

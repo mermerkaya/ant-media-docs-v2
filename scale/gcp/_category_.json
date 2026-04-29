@@ -1,0 +1,8 @@
+{
+  "label": "Google Cloud Platform",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Deploy and scale Ant Media Server on Google Cloud Platform using Instance Groups, Managed Instance Templates, and Application Load Balancers."
+  }
+}

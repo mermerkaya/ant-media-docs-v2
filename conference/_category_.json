@@ -1,0 +1,8 @@
+{
+  "label": "Conference",
+  "position": 10,
+  "link": {
+    "type": "generated-index",
+    "description": "Build scalable WebRTC video conferencing applications using Ant Media Server's multitrack conference architecture, room security, and recording features."
+  }
+}
